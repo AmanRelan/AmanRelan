@@ -5,11 +5,13 @@
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Abhijay007/Abhijay007/main/coder1.gif" alt="amiya559" /> </p>
 
-<h1 align="center">Current Learning Endeavor</h1>
+<h1 align="center">Sneak Peak in my life</h1>
 <p align="center">
-  🌱 I'm currently expanding my skill set by diving into React. 
-  This learning path is part of my goal to enhance my understanding of full-stack development and to better collaborate with front-end teams. 
-</p>
+  
+  - 🌱 I'm currently expanding my skill set by diving deep into React.js
+    
+- This learning path is part of my goal to enhance my understanding of full-stack development and to better collaborate with front-end teams. 
+
 
 - 🔭 I’m currently working at **Einfochips**
 
@@ -19,6 +21,7 @@
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/aman-relan/)
 
+</p>
 
 <h1 align="center">Core Values</h1>
 
